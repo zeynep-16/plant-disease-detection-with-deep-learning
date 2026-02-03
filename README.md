@@ -90,12 +90,6 @@ Aşağıda sistemin arayüzüne ait bir ekran görüntüsü yer almaktadır:
 
 ---
 
-## Belgeler
--  [Proje Raporu (PDF)](docs/Zeynep_Kaya_rapor.pdf)  
--  [Sunum (PPTX)](presentation/Tasarım2_Sunum_Zeynep_Kaya.pptx)  
-
----
-
 ## Geliştirici
 **Zeynep Kaya**  
 
