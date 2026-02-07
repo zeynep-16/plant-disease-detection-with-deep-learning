@@ -71,7 +71,7 @@ Amaç; tarımda hızlı, doğru ve kullanıcı dostu bir yapay zekâ destekli si
 2. Frontend (React.js): Görseli backend’e iletir  
 3. Backend (FastAPI): Görseli işler, TensorFlow modeline gönderir  
 4. Model (MobileNetV2): Görseli sınıflandırır  
-5. Sonuç: Bitkinin hastalıklı mmı sağlıklı mı olduğu. Hastalıklı ise hangi hastalığa sahip olduğu ve bu hastalık için uygulanabilecek kimyasal ve doğal tedavi yöntemleri önerilir.
+5. Sonuç: Bitkinin hastalıklı mı sağlıklı mı olduğu. Hastalıklı ise hangi hastalığa sahip olduğu ve bu hastalık için uygulanabilecek kimyasal ve doğal tedavi yöntemleri önerilir.
 
 ## Uygulama Arayüzü
 
